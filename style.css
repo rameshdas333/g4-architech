@@ -87,6 +87,54 @@ main{
     font-size: 3rem;
 
 }
+.featuress{
+    display: flex;
+     gap: 100px;
+    margin: 130px;
+
+}
+.featuress .section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+ 
+}
+.ten-years{
+    color: #FFF;
+    font-size: 3rem;
+    font-weight: 700;
+    background: #FF900E;
+    text-align: center;
+    border-radius: 8px;
+    width: 342px;
+    padding: 42px;
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+    gap: 54px;
+
+}
+.ten-years h2{
+   font-size: 4rem;
+   margin: 0px;
+}
+.ten-years p{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.features-img{
+    width: 450px;
+}
+.features-content .card{
+  border-radius: 8px;
+  margin-top: 20px;
+  background: #FFF;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  padding: 30px;
+  margin: 20px;
+
+   
+}
+
 .section-title .quick-list{
     color: #727272;
     font-weight: 500;
